@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+1) To install bootstrap - `npm i bootstrap` in your terminal
+2) In app.js top section write - 
+`import "bootstrap/dist/css/bootstrap.min.css";` 
+
 ## Available Scripts
 
 In the project directory, you can run:
